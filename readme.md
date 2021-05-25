@@ -34,4 +34,4 @@ Finally, go back to `ZipCityStateDemo` and run `grails run-app`! Any change done
 
 ## Caveat
 
-If you are developing in the plugin for some masochist some times weird stuff happens and you will have to stop the server and run `grails clean` in both applications for the weird stuff to go away.
+If you are developing in the plugin, for some masochist reason, weird stuff may happen. Stop the server and run `grails clean` in both applications for the weird stuff to (hopefully) go away.
